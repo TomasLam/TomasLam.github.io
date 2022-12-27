@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/TomasLam.github.io/TomasLam.github.io/static/css/main.ebbd5995.css",
+    "main.js": "/TomasLam.github.io/TomasLam.github.io/static/js/main.54d09923.js",
+    "static/js/787.28cb0dcd.chunk.js": "/TomasLam.github.io/TomasLam.github.io/static/js/787.28cb0dcd.chunk.js",
+    "index.html": "/TomasLam.github.io/TomasLam.github.io/index.html",
+    "main.ebbd5995.css.map": "/TomasLam.github.io/TomasLam.github.io/static/css/main.ebbd5995.css.map",
+    "main.54d09923.js.map": "/TomasLam.github.io/TomasLam.github.io/static/js/main.54d09923.js.map",
+    "787.28cb0dcd.chunk.js.map": "/TomasLam.github.io/TomasLam.github.io/static/js/787.28cb0dcd.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.ebbd5995.css",
+    "static/js/main.54d09923.js"
+  ]
+}
